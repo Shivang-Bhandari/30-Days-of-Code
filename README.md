@@ -10,3 +10,4 @@ Here are the solutions to all the HackerRank challenge questions For this series
 * [Day 1](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day1.py)
 * [Day 2](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day2.py)
 * [Day 3](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day3.py) 
+* [Day 4](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day4.py)
