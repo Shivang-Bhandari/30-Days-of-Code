@@ -13,3 +13,4 @@ Here are the solutions to all the HackerRank challenge questions For this series
 * [Day 4](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day4.py)
 * [Day 5](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day5.py)
 * [Day 6](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day6.py)
+* [Day 7](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day7.py)
