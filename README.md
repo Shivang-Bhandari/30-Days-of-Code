@@ -6,15 +6,16 @@ Here are the solutions to all the HackerRank challenge questions For this series
 
 ## Solutions :
 
-* [Day 0](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day0.py)
-* [Day 1](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day1.py)
-* [Day 2](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day2.py)
-* [Day 3](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day3.py)
-* [Day 4](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day4.py)
-* [Day 5](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day5.py)
-* [Day 6](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day6.py)
-* [Day 7](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day7.py)
-* [Day 8](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day8.py)
-* [Day 9](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day9.py)
-* [Day 10](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day10.py)
-* [Day 11](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/Day11.py)
+* PYTHON : 
+    * [Day 0](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day00.py)
+    * [Day 1](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day01.py)
+    * [Day 2](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day02.py)
+    * [Day 3](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day03.py)
+    * [Day 4](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day04.py)
+    * [Day 5](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day05.py)
+    * [Day 6](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day06.py)
+    * [Day 7](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day07.py)
+    * [Day 8](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day08.py)
+    * [Day 9](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day09.py)
+    * [Day 10](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day10.py)
+    * [Day 11](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day11.py)
