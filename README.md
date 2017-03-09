@@ -21,6 +21,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
     * [Day 11](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day11.py)
     * [Day 12](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day12.py)
     * [Day 13](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day13.py)
+    * [Day 14](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/python/Day14.py)
 
 * C++ :
     * [Day 0](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day00.cpp)
