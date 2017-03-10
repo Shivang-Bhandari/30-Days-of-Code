@@ -26,3 +26,4 @@ Here are the solutions to all the HackerRank challenge questions For this series
 * C++ :
     * [Day 0](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day00.cpp)
     * [Day 1](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day01.cpp)
+    * [Day 2](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day02.cpp)
