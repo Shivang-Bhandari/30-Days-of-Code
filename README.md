@@ -31,3 +31,4 @@ Here are the solutions to all the HackerRank challenge questions For this series
     * [Day 4](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day04.cpp)
     * [Day 5](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day05.cpp)
     * [Day 6](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day06.cpp)
+    * [Day 7](https://github.com/Shivang-Bhandari/30-Days-of-Code/blob/master/C++/Day07.cpp)
